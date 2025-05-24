@@ -1,7 +1,3 @@
-Here’s a professional and clear `README.md` template for your GitHub repository documenting your 1D CNN model using the PTB-XL dataset:
-
----
-
 # 🫀 ECG Signal Classification using 1D CNN (PTB-XL Dataset)
 
 This project implements a **1D Convolutional Neural Network (CNN)** to classify **12-lead ECG signals** from the **PTB-XL dataset** into **5 diagnostic categories**, achieving up to **90% accuracy**. The goal is to automate the diagnosis of cardiac conditions using deep learning.
